@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="81.92" height="81.92" viewBox="0 0 81.92 81.92" enable-background="new 0 0 81.92 81.92" xml:space="preserve">
+	<rect x="0" y="0" fill="#000000" fill-opacity="1" stroke-width="0.32" stroke-linejoin="round" width="81.92" height="81.92"/>
+	<rect x="10.24" y="10.24" fill="#AA0000" fill-opacity="1" stroke-width="0.32" stroke-linejoin="round" width="61.44" height="61.44"/>
+	<path fill="#0000AA" fill-opacity="1" stroke-width="0.32" stroke-linejoin="round" d="M 11.9969,40.96L 40.96,11.9969L 69.9231,40.96L 40.96,69.9231L 11.9969,40.96 Z "/>
+	<rect x="30.72" y="30.72" fill="#00AA00" fill-opacity="1" stroke-width="0.32" stroke-linejoin="round" width="20.48" height="20.48"/>
+	<path fill="#FFCC00" fill-opacity="1" stroke-width="0.32" stroke-linejoin="round" d="M 33.7192,40.96L 40.96,33.7192L 48.2008,40.96L 40.96,48.2008L 33.7192,40.96 Z "/>
+	<rect x="38.4" y="38.4" fill="#FF7700" fill-opacity="1" stroke-width="0.32" stroke-linejoin="round" width="5.12" height="5.12"/>
+	<path fill="#FFFFFF" fill-opacity="1" stroke-width="0.32" stroke-linejoin="round" d="M 16.4849,37.3521C 21.7079,45.2107 34.7893,58.2921 42.6479,63.5151C 50.5064,68.738 53.142,66.1024 47.919,58.2439C 42.6961,50.3854 29.6146,37.3039 21.7561,32.081C 13.8976,26.858 11.262,29.4936 16.4849,37.3521 Z "/>
+	<path fill="#FFFFFF" fill-opacity="1" stroke-width="0.32" stroke-linejoin="round" d="M 28.6856,14.1044C 31.2221,9.86448 37.9396,3.14697 44.4804,2.97019C 51.0211,2.79341 57.3851,9.15737 58.2073,14.6347C 59.0295,20.112 54.3099,24.7027 52.3037,27.3516C 50.2974,30.0004 51.0045,30.7076 53.7179,28.7658C 56.4312,26.824 61.1508,22.2333 66.339,22.7664C 71.5272,23.2995 77.1841,28.9564 76.4769,35.3203C 75.7698,41.6843 68.6988,48.7553 64.2177,51.4042C 59.7366,54.0531 57.8454,52.2798 59.9667,47.3301C 62.0881,42.3803 68.2218,34.2541 66.5158,32.8427C 64.8097,31.4312 55.2637,36.7345 49.4301,38.3255C 43.5965,39.9165 41.4752,37.7952 42.5358,32.1383C 43.5965,26.4815 47.8391,17.2891 46.1864,14.9882C 44.5338,12.6874 36.9858,17.2781 32.3896,18.6923C 27.7934,20.1065 26.149,18.3442 28.6856,14.1044 Z "/>
+</svg>
